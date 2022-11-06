@@ -25,8 +25,8 @@ public class Main {
   public static void main(String[]args){
   
   String[] lnguages = {"Rust", "Java", "Nodejs", "Python"};
-  String[] tech ={"plenty"};         
-  String[] OS {"Windows", "Linux"};
+  String[] tech = {"plenty"};         
+  String[] OS = {"Windows", "Linux"};
   
   return 0;
   }
