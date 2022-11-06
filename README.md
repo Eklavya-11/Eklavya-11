@@ -20,14 +20,24 @@
  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
 </a>
 
-```js
-const name = "Yeah"
-let todo = "few things"
+```java
+public class Main {
+  public static void main(String[]args){
+  
+  String[] lnguages = {"Rust", "Java", "Nodejs", "Python"};
+  String[] tech ={"plenty"};         
+  String[] OS {"Windows", "Linux"};
+  
+  return 0;
+  }
+}
+
 ``` 
 
 -----------
 
 On internet, i'm known as Eklavya11. <br>
+Apart from computer languages, i know 4 different Human languages perfectly.
 
 -----------
 
