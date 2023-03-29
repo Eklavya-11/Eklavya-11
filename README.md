@@ -56,4 +56,3 @@ Side hobbies:
 - Conversation with people (Apart from computer langs, i know 6 human languages)
 
 -----------
-i have iq of 172 . (tested few months ago)
