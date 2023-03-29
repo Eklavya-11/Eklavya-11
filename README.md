@@ -52,7 +52,10 @@ public class Main {
 -----
 
 Side hobbies:
-- Playing Chess
+- Playing Chess & Musical Instruments
 - Conversation with people (Apart from computer langs, i know 6 human languages)
-
+- Sports (Football, Basketball, Cricket, Volleyball, Tennis, Badmintion)
+- Physical workouts (Gym, Calisthenics, Martial Arts, Weight lifting, hella more)
 -----------
+**How it all started:** (*I never knew i would come this far w..woosh~~*) <br> 
+Started my journey in 5th grade because i wanted to build a mmorpg game.
