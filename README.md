@@ -22,7 +22,7 @@ For My Part I Know Nothing With Any Certainty, But The Sight of Stars Makes Me D
 public class Main {
   public static void main(String[]args){
   
-  String[] languages = {"Rust", "Java", "Python", "JS & TS", "Golang", "C++"};
+  String[] languages = {"Rust", "Java", "Python", "JS & TS", "Solidity", "Golang", "Bash", "C++"};
   String[] Qoute = "For My Part I Know Nothing With Any Certainty, But The Sight of Stars Makes Me Dream";         
   String[] OS_used = {"Windows", "Linux", "MacOS"};
   
