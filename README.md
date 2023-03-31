@@ -38,7 +38,7 @@ public class Main {
 
 | Skill | Description |
 | ----- | ----------- |
-| Web Development | Full Stack with py/rust/js backend and Reactjs/NextJs/Gatsby Frontend
+| Web Development | Full Stack with py/rust/js backend and Reactjs/NextJs/Svelte Frontend
 | App Development | Developed cross-platform applications with Flutter and Android studio |
 | Machine Learning | Deep machine learning with sklearn, pytorch, tensorflow |
 | Microservices | Microservices in rust python Js (deno and node) elixir |
