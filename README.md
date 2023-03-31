@@ -5,16 +5,6 @@
     </h3>
 </a>
 
-<div align="center">
-    <a href"https://github.com/HOPE-NEXUS?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/Eklavya-11?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
-    </a>
-</div><br>
-
-
-
-
 ```java
 On internet, i'm known as Eklavya11.
 
