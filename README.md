@@ -16,8 +16,7 @@
 
 
 ```java
-On internet, i'm known as Eklavya11. <br> (maybe add typing effect here)
-For My Part I Know Nothing With Any Certainty, But The Sight of Stars Makes Me Dream*
+On internet, i'm known as Eklavya11.
 
 public class Main {
   public static void main(String[]args){
