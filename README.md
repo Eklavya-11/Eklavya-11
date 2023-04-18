@@ -6,12 +6,10 @@
 </a>
 
 ```java
-On internet, i'm known as Eklavya11.
-
 public class Main {
   public static void main(String[]args){
   
-  String[] languages = {"Rust", "Java", "Python", "JS & TS", "Solidity", "Golang", "Bash", "C++"};
+  String[] languages = {"Java", "Python", "C++", "JS & TS", "Golang", "Rust", "Dart", "Bash", "Solidity"};
   String[] Qoute = "For My Part I Know Nothing With Any Certainty, But The Sight of Stars Makes Me Dream";         
   String[] OS_used = {"Windows", "Linux", "MacOS"};
   
@@ -27,17 +25,18 @@ public class Main {
 
 | Skill | Description |
 | ----- | ----------- |
-| Web Development | Full Stack with py/rust/js backend and Reactjs/NextJs/Svelte Frontend
+| Web Development | Full Stack with py/rust/js backend and Reactjs/Svelte Frontend
 | App Development | Developed cross-platform applications with Flutter and Android studio |
 | Machine Learning | Deep machine learning with sklearn, pytorch, tensorflow |
-| Microservices | Microservices in rust python Js (deno and node) elixir |
-| Databases | Normalization, Queries with PostgreSQL,Timescale, Cockroach,  Maria, Mongo, redis and Fauna |
-| Discord Bots | Serenity.rs, Discord.py and Discord.js with full db support |
+| Microservices | Microservices in rust python Js (deno and node) |
+| Databases | Normalization, Queries with PostgreSQL, Cockroach,  Maria, Mongo, redis and Fauna |
+| Discord Bots | Serenity.rs, Discord.go, Discord.py and Discord.js with complex features & full db support |
 | Docker | Skilled Containerization of workloads |
 | Devops | Minimal Kubernetes but great Docker/Docker-compose with both serveless and VPS deployments |
 | Serverless | Cloud functions, firebase and container runtimes |
 | Cloud | Familiar with AWS and GCP products |
 | Cyber Security | on going experience |
+| mechatronics | Doing courses and playing with circuits |
 -----
 
 Side hobbies:
