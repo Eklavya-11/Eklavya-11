@@ -41,7 +41,7 @@ public class Main {
 
 Side hobbies:
 - Playing Chess & Musical Instruments
-- Conversation with people (Apart from computer langs, i know 6 human languages)
+- Conversation with people (Apart from computer langs, i know 6-7 human languages)
 - Sports (Football, Basketball, Cricket, Volleyball, Tennis, Badmintion)
 - Physical workouts (Gym, Calisthenics, Martial Arts, Weight lifting, hella more)
 -----------
