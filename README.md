@@ -9,7 +9,7 @@
 public class Main {
   public static void main(String[]args){
   
-  String[] languages = {"Java", "Python", "C++", "JS & TS", "Golang", "Rust", "Dart", "Bash", "Solidity"};
+  String[] languages = {"Python", "C++", "JS & TS", "Golang", "Rust", "Dart", "Bash"};
   String[] Qoute = "For My Part I Know Nothing With Any Certainty, But The Sight of Stars Makes Me Dream";         
   String[] OS_used = {"Windows", "Linux", "MacOS"};
   
