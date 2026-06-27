@@ -37,4 +37,17 @@ public class Main {
 | Discord Bots | Discord.go, Discord.py and Discord.js with complex features & full db support |
 | Docker | Skilled Containerization of workloads |
 | Devops | Minimal Kubernetes but great Docker/Docker-compose with both serveless and VPS deployments |
-| Serverless | Cloud functions, Supabase, Firebase and container runtimes |
+| Serverless | Cloud functions, Firebase and container runtimes |
+| Cloud | Familiar with AWS and GCP products |
+| Cyber Security | on going experience |
+| mechatronics | Doing courses and playing with circuits |
+-----
+
+Side hobbies:
+- Playing Chess & Musical Instruments
+- Conversation with people (Apart from computer langs, i know 6-7 human languages)
+- Sports (Football, Basketball, Cricket, Volleyball, Tennis, Badmintion)
+- Physical workouts (Gym, Calisthenics, Martial Arts, Weight lifting)
+-----------
+**How it all started:** (*I never knew i would come this far w..woosh~~*) <br> 
+Started my journey in 5th grade because i wanted to build a mmorpg game.
